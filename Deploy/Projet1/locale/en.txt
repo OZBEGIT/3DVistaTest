@@ -3,19 +3,27 @@
 ## Hotspot
 
 ### Text
-QuadHotspotPanoramaOverlayTextImage_A1FB4278_B180_368B_41C4_DC25729F6DAF.text = Bien lire la notice ici
+HotspotPanoramaOverlayTextImage_A8723F41_B669_AF4B_41D5_B6A91D63159F.text = La machine sera posée ici, cliquez pour voir le modèle.
+
+### Tooltip
+sprite_AD6EE77C_B679_9F3A_41C7_4BAD9C1D72D3.toolTip = Retour à la salle
+HotspotPanoramaOverlayArea_A138E3E4_B66F_9749_41DD_47135FF664A1.toolTip = Voir la machine choisie
 
 ## Media
 
 ### Image
-imlevel_A3CB1D5F_B180_1286_41DB_49B5957B03E3.url = media/panorama_BA1BCFD1_B180_0D9D_41D2_929161225E11_HS_mly3nt3i_en.webp
+imlevel_961EA45E_B66B_B179_41DA_6E20C66BF4EC.url = media/panorama_A2B35592_B669_F3C9_41CA_2DE684B3E018_HS_0qfq3oze_en.webp
+imlevel_969CA065_B669_914B_41AA_2ACED22E7B1F.url = media/zoomImage_AE30E033_B668_70CF_41CF_F28C42A7DB8A_en_0_0.png
+
+### Popup Image
 
 ### Title
-panorama_BA1BCFD1_B180_0D9D_41D2_929161225E11.label = boiler_room_4k
+panorama_A2B35592_B669_F3C9_41CA_2DE684B3E018.label = AdobeStock_249823850
+model_BD9D08A6_B659_91C9_41CD_3B70184F5C36.label = industrial_machine
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 1
+tour.name = Untitled 2
