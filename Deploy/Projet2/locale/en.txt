@@ -1,0 +1,29 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_A8723F41_B669_AF4B_41D5_B6A91D63159F.text = La machine sera posée ici, cliquez pour voir le modèle.
+
+### Tooltip
+sprite_AD6EE77C_B679_9F3A_41C7_4BAD9C1D72D3.toolTip = Retour à la salle
+HotspotPanoramaOverlayArea_A138E3E4_B66F_9749_41DD_47135FF664A1.toolTip = Voir la machine choisie
+
+## Media
+
+### Image
+imlevel_961EA45E_B66B_B179_41DA_6E20C66BF4EC.url = media/panorama_A2B35592_B669_F3C9_41CA_2DE684B3E018_HS_0qfq3oze_en.webp
+imlevel_96D3844F_B669_9157_41C3_5872738D403F.url = media/zoomImage_AE30E033_B668_70CF_41CF_F28C42A7DB8A_en_0_0.png
+
+### Popup Image
+
+### Title
+panorama_A2B35592_B669_F3C9_41CA_2DE684B3E018.label = AdobeStock_249823850
+model_BD9D08A6_B659_91C9_41CD_3B70184F5C36.label = industrial_machine
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
