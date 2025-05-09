@@ -1,0 +1,21 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_A1FB4278_B180_368B_41C4_DC25729F6DAF.text = Bien lire la notice ici
+
+## Media
+
+### Image
+imlevel_A3CB1D5F_B180_1286_41DB_49B5957B03E3.url = media/panorama_BA1BCFD1_B180_0D9D_41D2_929161225E11_HS_mly3nt3i_en.webp
+
+### Title
+panorama_BA1BCFD1_B180_0D9D_41D2_929161225E11.label = boiler_room_4k
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
